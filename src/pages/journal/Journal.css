@@ -1,0 +1,19 @@
+.container_journal{
+  height: 100vh;
+  color: white;
+  background: url(../../assets/images/journal.jpg) center no-repeat fixed; 
+  background-size:cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#titlep{
+  position: relative;
+  top: -230px;
+  font-size: 60px;
+  font-weight: bold;
+  color: white;
+  margin-right: 370px;
+}

@@ -1,0 +1,19 @@
+.container_name{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width: 80vw;
+  height: 90vh;
+  color: #FFFFFF;
+}
+
+h1{
+  display: inline;
+}
+
+h3{
+  display: inline;
+}
+
+
+
