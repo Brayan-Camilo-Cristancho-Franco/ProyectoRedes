@@ -13,28 +13,28 @@
 
 .container_about h1{
   color: #FFFFFF;
-  font-size: 3.0em;
+  font-size: 3.5vw;
   display: flex;
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 .about_description{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 75vh;
+  width: 55vw;
   margin-bottom: 40px;
-  font-size: 17px;
+  font-size: 1.3vw;
 }
 
 .about_description p{
-  width:500px;
-  margin-bottom: 50px!important;
+  width: 25vw;
+  margin-right: 110px;
 }
 
 .astronaut_image{
-  width:348px;
-  height:450px;
+  width: 20vw;
+  height: auto;
 }
 
 @media only screen and (max-width: 815px ) {

@@ -2,6 +2,7 @@ import styled from 'styled-components'
 
 export const Container = styled.div`
   position: fixed;
+  padding: 6px;
   width: 100%;
   height: 70px;
   z-index: 1;
@@ -12,11 +13,9 @@ export const Container = styled.div`
 export const Wrapper = styled.div`
   background-color: #000000;
   width: 100%;
-  max-width: 1000px;
   height: 100%;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
   margin: auto;
 `
 export const Hamburguer = styled.div`
@@ -32,14 +31,14 @@ export const Hamburguer = styled.div`
 `
 
 export const Menu = styled.ul`
-  width: 100vw;
+  width: 90vw;
   display: flex;
   justify-content: space-between;
   align-items: center;
   list-style: none;
   padding-inline-start: 0px;
   margin: 0px;
-  font-size: 15px;
+  font-size: 1.5vw;
 
   @media screen and (max-width: 960px) {
     background-color: #000000;
@@ -83,6 +82,6 @@ export const MenuItemLink = styled.a`
 `
 
 export const Img = styled.img`
-  width: 50px;
-  height: 50px;
+  width: 3.2vw;
+  height: 3.2vw;
 `
