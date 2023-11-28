@@ -11,9 +11,26 @@
 
 #title{
   position: relative;
-  top: -200px;
+  top: -50px;
   font-size: 4vw;
   font-weight: bold;
   color: white;
   margin-left: 370px;
+}
+
+@media only screen and (max-width: 1440px ) {
+  .container_form_contact{
+    width: 55vw;
+  }
+  input{
+    width: 50vw;
+  }
+  textarea{
+    width: 50vw;
+  }
+
+  #title{
+    position: relative;
+    top: -50px;
+  }
 }
