@@ -22,14 +22,14 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 55vw;
+  width: 80%;
   margin-bottom: 40px;
-  font-size: 1.3vw;
 }
 
 .about_description p{
-  width: 25vw;
+
   margin-right: 110px;
+  font-size: 1.8vw;
 }
 
 .astronaut_image{
@@ -37,42 +37,8 @@
   height: auto;
 }
 
-@media only screen and (max-width: 815px ) {
-  .astronaut_image{
-  width:248px;
-  height:350px;
-  }
-}
+@media only screen and (max-width: 1300px ) {
 
-@media only screen and (max-width: 700px ) {
-  .astronaut_image{
-  width:198px;
-  height:300px;
-  }
 
-  .about_description{
-  font-size: 15px;
-  }
-}
 
-@media only screen and (max-width: 510px ) {
-  .astronaut_image{
-  width:148px;
-  height:250px;
-  }
-
-  .about_description{
-  font-size: 12px;
-  }
-}
-
-@media only screen and (max-width: 380px ) {
-  .astronaut_image{
-  width:98px;
-  height:200px;
-  }
-
-  .about_description{
-  font-size: 10px;
-  }
-}
+}  

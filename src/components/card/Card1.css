@@ -1,14 +1,20 @@
+.card_container1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .card1{
   width: 35vw;
   max-width: 300px;
   border: 1px solid #353535;
   padding-top: 10px;
   border-radius: 5px;
-  height: 550px;
-  display: flex;
-  flex-direction: column;
+  display:  flex;
+  justify-content: center;
   align-items: center;
   position: relative;
+  height: 40vh;
 }
 
 .card1::after {
@@ -26,8 +32,8 @@
 
 .image1{
   width:90%;
-  height: 70%;
-  background-size:  contain;
+  height: 95%;
+  background-size:  cover;
   border-radius: 15px;
 }
 
@@ -39,8 +45,9 @@
   opacity: 0.7;
   justify-content: center;
   align-items: center;
-  margin-top: 20px;
   font-size: 1vw;
+  z-index: 2;
+  border: 0px;
 }
 
 .title1{
@@ -48,19 +55,31 @@
 }
 
 
-@media only screen and (max-width: 13px ) {
+@media only screen and (max-width: 1300px ) {
+  
+
   .card1{
-    width: 5vw;
+    width: 42vw;
     max-width: 300px;
     border: 1px solid #353535;
     padding-top: 10px;
     border-radius: 5px;
-    height: 550px;
-    display: flex;
-    flex-direction: column;
+    display:  flex;
+    justify-content: center;
     align-items: center;
     position: relative;
+    height: 45vh;
   }
   
+  .image1{
+    width:95%;
+    height: 95%;
+    background-size:  cover;
+    border-radius: 15px;
+  }
 
+  .container_title1{
+    font-size: 2.5vw;
+  }
 }
+

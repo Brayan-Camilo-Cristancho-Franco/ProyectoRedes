@@ -66,6 +66,7 @@ export const MenuItem = styled.li`
     display: flex;
     justify-content: ce;
     align-items: center;
+    font-size: 3vw;
     &:hover {
       background-color: #292929;
       cursor: pointer;
@@ -84,4 +85,8 @@ export const MenuItemLink = styled.a`
 export const Img = styled.img`
   width: 3.2vw;
   height: 3.2vw;
+  @media screen and (max-width: 960px) {
+    width: 6vw;
+    height: 6vw;
+  }
 `
