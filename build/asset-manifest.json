@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5ec51496.css",
-    "main.js": "/static/js/main.e37b6a57.js",
+    "main.js": "/static/js/main.2dcee5c2.js",
     "static/media/explore.jpg": "/static/media/explore.115ce065f648187f4177.jpg",
     "static/media/world.jpg": "/static/media/world.64fb6456eec96e280006.jpg",
     "static/media/galaxy-night-panorama.jpg": "/static/media/galaxy-night-panorama.f2f564fc38d7502025f9.jpg",
@@ -20,10 +20,10 @@
     "static/media/javascript.png": "/static/media/javascript.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
     "main.5ec51496.css.map": "/static/css/main.5ec51496.css.map",
-    "main.e37b6a57.js.map": "/static/js/main.e37b6a57.js.map"
+    "main.2dcee5c2.js.map": "/static/js/main.2dcee5c2.js.map"
   },
   "entrypoints": [
     "static/css/main.5ec51496.css",
-    "static/js/main.e37b6a57.js"
+    "static/js/main.2dcee5c2.js"
   ]
 }
