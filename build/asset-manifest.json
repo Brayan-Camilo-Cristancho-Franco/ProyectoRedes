@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ec51496.css",
+    "main.js": "/static/js/main.e37b6a57.js",
+    "static/media/explore.jpg": "/static/media/explore.115ce065f648187f4177.jpg",
+    "static/media/world.jpg": "/static/media/world.64fb6456eec96e280006.jpg",
+    "static/media/galaxy-night-panorama.jpg": "/static/media/galaxy-night-panorama.f2f564fc38d7502025f9.jpg",
+    "static/media/journal.jpg": "/static/media/journal.76a264870494e0a502d8.jpg",
+    "static/media/astronaut2.png": "/static/media/astronaut2.a8eab27a4e4178a6034e.png",
+    "static/media/project2.PNG": "/static/media/project2.5b9177195a6d84633ea5.PNG",
+    "static/media/contact.jpg": "/static/media/contact.ae8cbba931a2285c08a4.jpg",
+    "static/media/project1.PNG": "/static/media/project1.a4b6f408f18dfe9c03b3.PNG",
+    "static/media/datos.png": "/static/media/datos.ddaab2245eb8666c7904.png",
+    "static/media/backgroundAll.jpg": "/static/media/backgroundAll.48681988351ddd455729.jpg",
+    "static/media/cloud.png": "/static/media/cloud.7861283ba85b39fb4fb6.png",
+    "static/media/python.png": "/static/media/python.07a98139a3638f2a224b.png",
+    "static/media/java.png": "/static/media/java.b7a2f6415cec10cee413.png",
+    "static/media/project3.png": "/static/media/project3.4907bf31eddfa036350a.png",
+    "static/media/astronaut.png": "/static/media/astronaut.0daa57a984fd3ea8a2ff.png",
+    "static/media/javascript.png": "/static/media/javascript.3dfb665e058d08c99f28.png",
+    "index.html": "/index.html",
+    "main.5ec51496.css.map": "/static/css/main.5ec51496.css.map",
+    "main.e37b6a57.js.map": "/static/js/main.e37b6a57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ec51496.css",
+    "static/js/main.e37b6a57.js"
+  ]
+}
